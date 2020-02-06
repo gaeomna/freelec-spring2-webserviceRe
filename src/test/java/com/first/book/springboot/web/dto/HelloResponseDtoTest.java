@@ -1,12 +1,9 @@
 package com.first.book.springboot.web.dto;
 
 
-import dto.HelloResponseDto;
 import org.junit.Test;
 import static org.assertj.core.api.Assertions.assertThat;
-                //assertThat assertj라는 테스트 검증 라이브러리이 검증 메소드
-                //검증하고 싶은 대상을 메소드 인자로 받음
-                //메소드 체이닝이 지원되어 isEqualTo와 같이 메소드를 이어서 사용할 수 있음
+
 
 
 public class HelloResponseDtoTest {
